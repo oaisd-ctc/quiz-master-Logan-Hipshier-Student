@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59620f8e5272b884ead006b1e6edacba, type: 3}
+  m_Name: q1
+  m_EditorClassIdentifier: 
+  question: What do classical economists believe about E2?
+  answers:
+  - It doesn't exist
+  - It's extremely important
+  - APL remains at E2 in the SR
+  - LRAS will snap to E2 in the LR
+  correctAnswerIndex: 0
